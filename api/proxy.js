@@ -3,7 +3,7 @@ export const config = {
 };
 
 const VPS_TARGET = 
-"https://douc.hackerman9zd.ggff.net:443";
+"https://he.hackerman9zd.store:443";
 
 export default async function handler(req) {
   const url = new URL(req.url);
