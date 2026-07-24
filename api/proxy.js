@@ -3,7 +3,7 @@ export const config = {
 };
 
 const VPS_TARGET = 
-"https://socrate.hackerman9zd.store:443";
+"https://bunny.hackerman9zd.store:443";
 
 export default async function handler(req) {
   const url = new URL(req.url);
